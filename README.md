@@ -1,4 +1,4 @@
-# Zoo Online
+# Zoo
 
 Prosta strona internetowa z informacjami o zwierzętach.
 
